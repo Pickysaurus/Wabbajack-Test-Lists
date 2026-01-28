@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_e0a12612-cbdc-4102-a998-1961fb9eea72",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_99842779-abc8-4ecb-ba98-3d5a50fd973c",
       "machineURL": "PickyAPITest",
       "discordURL": "https://discord.gg/wabbajack",
       "websiteURL": "",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "pL9D8148H6A=",
-      "Size": 1490323,
+      "Hash": "7nmp+00g7u4=",
+      "Size": 1490333,
       "NumberOfArchives": 3,
       "SizeOfArchives": 395738,
       "NumberOfInstalledFiles": 60,
-      "SizeOfInstalledFiles": 845624,
-      "TotalSize": 1241362
+      "SizeOfInstalledFiles": 845648,
+      "TotalSize": 1241386
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2026-01-28T16:56:45.9157627Z",
     "repositoryName": ""
   }
 ]
