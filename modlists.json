@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Picky's API test",
+    "description": "Test of Nexus Mods API integration",
+    "author": "Pickysaurus",
+    "maintainers": [
+      "github/Pickysaurus"
+    ],
+    "game": "stardewvalley",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "readme": "https://keizaal.github.io/Keizaal/",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_e0a12612-cbdc-4102-a998-1961fb9eea72",
+      "machineURL": "PickyAPITest",
+      "discordURL": "https://discord.gg/wabbajack"
+    },
+    "download_metadata": {
+      "Hash": "pL9D8148H6A=",
+      "Size": 1490323,
+      "NumberOfArchives": 3,
+      "SizeOfArchives": 395738,
+      "NumberOfInstalledFiles": 60,
+      "SizeOfInstalledFiles": 845624,
+      "TotalSize": 1241362
+    },
+    "version": "1.0.0"
+  }
+]
+
